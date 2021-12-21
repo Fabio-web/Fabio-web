@@ -1,16 +1,19 @@
-### Hi there 👋
+<h3 align="center">Hi there 👋</h3>
+<h1 align="center">I am a French web & application developer.</h1>
 
-<!--
-**Fabio-web/Fabio-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+	<img align="center" src="https://github-readme-stats.vercel.app/api?username=Fabio-web&count_private=true&show_icons=true&theme=github_dark" />
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+	<img width="50px" height="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/html.svg">
+	&nbsp;
+	<img width="50px" height="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg">
+	<img width="50px" height="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg">
+	<img width="50px" height="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/typescript.svg">
+	<img width="50px" height="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/dart.svg">
+	&nbsp;
+	<img width="50px" height="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/php.png">
+	<img width="50px" height="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/bash.svg">
+	<img width="50px" height="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/docker.svg">
+</p>

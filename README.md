@@ -10,6 +10,7 @@
 	<img width="50px" height="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg">
 	<img width="50px" height="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg">
 	<img width="50px" height="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/typescript.svg">
+	<img width="50px" height="50px" src="https://nuxtjs.org/design-kit/colored-logo.svg">
 	<img width="50px" height="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/dart.svg">
 	&nbsp;
 	<img width="50px" height="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/php.png">

@@ -11,9 +11,14 @@
 	<img width="50px" height="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg">
 	<img width="50px" height="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/typescript.svg">
 	<img width="50px" height="50px" src="https://nuxtjs.org/design-kit/colored-logo.svg">
+	&nbsp;
+	<img width="50px" height="50px" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png">
+	&nbsp;
 	<img width="50px" height="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/dart.svg">
 	&nbsp;
 	<img width="50px" height="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/php.png">
+	&nbsp;
 	<img width="50px" height="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/bash.svg">
-	<img width="50px" height="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/docker.svg">
+	&nbsp;
+	<img width="50px" height="50px" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/vertical-logo-monochromatic.png">
 </p>

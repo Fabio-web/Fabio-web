@@ -7,7 +7,6 @@
 
 <p align="center">
 	<img width="50px" height="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/html.svg">
-	&nbsp;
 	<img width="50px" height="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg">
 	<img width="50px" height="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg">
 	<img width="50px" height="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/typescript.svg">

@@ -6,21 +6,21 @@
 </p>
 
 <p align="center">
-	<img width="50px" height="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/html.svg">
-	<img width="50px" height="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg">
+	<img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/HTML5_logo_resized.svg/1200px-HTML5_logo_resized.svg.png">
+	&nbsp;
+	<img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png">
 	<img width="50px" height="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg">
 	<img width="50px" height="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/typescript.svg">
-	<img width="50px" height="50px" src="https://nuxtjs.org/design-kit/colored-logo.svg">
+	<img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png">
+	<img height="55px" src="https://nuxtjs.org/design-kit/colored-logo.svg">
 	&nbsp;
 	<img width="50px" height="50px" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png">
 	&nbsp;
-	<img width="50px" height="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/dart.svg">
-	&nbsp;
-	<img width="50px" height="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/php.png">
+	<img width="50px" height="50px" src="https://iconape.com/wp-content/files/yb/61798/svg/flutter-logo.svg">
 	&nbsp;
 	<img width="50px" height="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/bash.svg">
 	&nbsp;
-	<img width="50px" height="50px" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/vertical-logo-monochromatic.png">
+	<img height="50px" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png">
 </p>
 
 <p align="right">
